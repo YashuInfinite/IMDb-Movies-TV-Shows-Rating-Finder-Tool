@@ -3,6 +3,9 @@ A Node.js and Puppeteer web app that searches IMDb for movies or TV shows and di
 
 🎬 IMDb Movies & TV Shows Rating Finder
 
+<div align="center">
+<img src="https://github.com/YashuInfinite/IMDb-Movies-TV-Shows-Rating-Finder-Tool/blob/main/output.png?raw=true" alt="IMDb Movies & TV Shows Rating Finder" width="800" />
+
 A simple and modern web application built with Node.js, Express.js, and Puppeteer that searches IMDb for movies and TV shows and displays their IMDb rating.
 
 The application provides a responsive glassmorphism-style interface where users can enter a movie or TV show name, search IMDb, and retrieve the rating automatically.
