@@ -1,0 +1,30 @@
+{
+"name": "imdb-rating-finder",
+"version": "1.0.0",
+"description": "A Node.js and Puppeteer web application that searches IMDb and displays movie and TV show ratings.",
+"main": "index.js",
+"scripts": {
+"start": "node index.js",
+"dev": "node index.js"
+},
+"keywords": [
+"imdb",
+"movie",
+"movies",
+"tv-shows",
+"ratings",
+"nodejs",
+"express",
+"puppeteer",
+"web-scraping"
+],
+"author": "Yashwanth R",
+"license": "MIT",
+"dependencies": {
+"express": "^4.21.2",
+"puppeteer": "^24.10.2"
+},
+"engines": {
+"node": ">=18"
+}
+}
